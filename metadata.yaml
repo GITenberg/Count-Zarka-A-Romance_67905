@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '34729'
     url: http://www.gutenberg.org/2009/agents/34729
     wikipedia: https://en.wikipedia.org/wiki/Maurice_Greiffenhagen
+covers:
+- cover_type: archival
+  image_path: 67905-h/images/cover.jpg
 creator:
   author:
     agent_name: Magnay, William, Sir
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3271
     wikipedia: https://en.wikipedia.org/wiki/Sir_William_Magnay,_2nd_Baronet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67905#Count-Zarka-A-Romance
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67905'
